@@ -1,12 +1,21 @@
+/* slider-controls */
+@media only screen and (max-width: 600px) {
+   .images-slider{
+       height:586px ;
+       width: 360px; ;
+   }
+  }
 /* highlighted card */
 .custom-redius{
     background-color: #3F87F5 !important;
     border-radius: 30px;
 }
+/* form-controls */
 .booking-form{
     background-color: rgb(250, 235, 232);
     border-radius: 40px;
 }
+/* footer */
 .custom-footer{
     height: 280px;
     background-color: #0B0D17;
