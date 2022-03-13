@@ -4,6 +4,10 @@
     border-radius: 30px;
 }
 .booking-form{
-    background-color: beige;
+    background-color: rgb(250, 235, 232);
     border-radius: 40px;
+}
+.custom-footer{
+    height: 280px;
+    background-color: #0B0D17;
 }
